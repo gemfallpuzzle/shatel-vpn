@@ -1,0 +1,137 @@
+Privacy Policy
+
+Shatel VPN (package name: com.provpn.shatel)
+Effective date: September 24, 2026
+
+This Privacy Policy explains what information Shatel VPN ("the app", "we", "us") collects, how it is used, and the choices you have. By using the app you agree to the practices described here.
+
+
+1. Information We Collect
+
+1.1 Information collected automatically
+To run the service, keep it secure and show relevant ads, the app collects:
+
+* Device and app identifiers: a random installation identifier created by the app, the Android ID, the advertising ID (used by Google AdMob), and an identifier of the app build.
+* Device information: device model, Android version, app version and the language setting of the app.
+* Network information: your IP address. We keep a history of the IP addresses and countries your installation connected from, limited to the most recent 100 entries.
+* Approximate location: the country (and where available, the city) derived from your IP address. The app does not request your device location permission and does not collect precise (GPS) location.
+* App activity: when the app was installed and last opened, how many times it has been opened, and in-app interactions and usage events.
+* App info and performance: crash reports, diagnostics and reports of servers that failed to connect or to load an ad.
+* Referral information: the referral code assigned to your installation and, if you use a referral code, the installation that referred you.
+* Push notification token: used to deliver notifications from us.
+
+1.2 Purchase information
+If you buy a subscription, see section 3 for the information involved. Your payment details are handled by Google Play and are never received or stored by us.
+
+1.3 Information you choose to send us
+If you contact us by email, we receive your email address and the content of your message.
+
+1.4 Information we do not collect
+* We do not collect your name, phone number, contacts, photos, files or messages.
+* We do not collect precise (GPS) location.
+* The app does not record, inspect, store or sell the websites you visit or the content of the traffic that passes through the VPN connection.
+* We do not receive or store your payment card or bank details.
+
+
+2. How We Use Information
+
+We use the information above to:
+
+* Provide and operate the VPN service.
+* Verify that requests come from a genuine copy of the app and prevent abuse and fraud.
+* Unlock and maintain Premium features for users with an active subscription.
+* Run the referral program.
+* Display ads to users without a subscription.
+* Send notifications about the service and app updates.
+* Diagnose crashes, fix problems and improve the app's performance and features.
+* Comply with legal obligations and Google Play policies.
+
+
+3. In-App Purchases and Subscriptions
+
+Shatel VPN offers Premium subscriptions (for example: removing ads, unlimited connection time and access to premium servers) through Google Play Billing.
+
+* Payment processing: all payments are processed by Google Play under Google's terms and privacy policy. We do not receive or store your card number, bank details or billing address.
+* Information we receive: when you subscribe, the app and our server receive the purchase token, the product and plan you bought, the order status and the subscription's expiry time. We verify each purchase directly with Google Play and store the result with your installation identifier, so that Premium features can be unlocked on your device and kept active until the subscription ends.
+* Renewal and cancellation: subscriptions renew automatically through Google Play unless cancelled. You can manage or cancel a subscription at any time in the Google Play Store app under Payments & subscriptions > Subscriptions. Cancelling stops future renewals; Premium remains active until the end of the paid period.
+* Refunds: refunds are handled according to Google Play's refund policy.
+* Status checks: we periodically re-check an active subscription with Google Play so that cancellations, refunds and expiries are applied correctly.
+
+
+4. VPN Service
+
+Shatel VPN uses Android's VpnService to create a VPN connection on your device. This is the app's core function: it routes your device's internet traffic through our VPN servers to encrypt it and change your apparent location.
+
+* The app does not use the VPN connection to collect personal or sensitive data, to track your browsing, or to inject, redirect or manipulate ads or other traffic.
+* The app's own traffic, such as ad requests and requests to our servers, is also sent through the VPN connection while it is active.
+* The app asks for your permission before a VPN connection is established, and it does not contact our servers before this permission has been granted.
+
+
+5. Third-Party Services
+
+The app uses the following services, which may collect information as described in their own privacy policies:
+
+* Google Play services, including Google Play Billing, In-App Updates and In-App Review: https://policies.google.com/privacy
+* Google AdMob (advertising): https://policies.google.com/technologies/ads
+* Firebase Analytics, Firebase Crashlytics and Firebase Cloud Messaging: https://firebase.google.com/support/privacy
+
+
+6. Advertising
+
+Users without a Premium subscription see ads provided by Google AdMob. AdMob may use your advertising ID, device information and approximate location to show personalized or contextual ads and to measure them.
+
+You can reset your advertising ID or opt out of ads personalization in your device settings (Settings > Google > Ads, or Settings > Privacy > Ads, depending on your device). A Premium subscription removes ads from the app.
+
+
+7. Data Sharing and Transfer
+
+We do not sell your personal information.
+
+We share information only:
+* With the service providers listed in section 5, to provide the functions described above.
+* With Google Play, to process and verify purchases.
+* When required by law, or to protect the rights, safety and security of our users and our service.
+
+Our servers and those of our service providers may be located in different countries. By using the app you understand that your information may be processed outside your country of residence.
+
+
+8. Data Retention
+
+* Installation, device and activity records are kept while the app is in use and for as long as needed for the purposes above.
+* The IP address history is limited to the most recent 100 entries per installation; older entries are removed automatically.
+* Purchase records are kept for the duration of the subscription and afterwards as long as needed to handle refunds, disputes and legal or accounting obligations.
+* Crash reports, analytics and advertising data are retained by the respective service providers according to their own policies.
+
+
+9. Your Choices and Rights
+
+* You can uninstall the app at any time; this removes the installation identifier stored on your device.
+* You can request access to, or deletion of, the information we hold about your installation by contacting us at the email address below. Deleting an active subscription's records does not cancel it; please cancel it in Google Play as described in section 3.
+* You can manage ads personalization and your advertising ID in your device settings, and notifications in your device's app settings.
+
+Depending on where you live, you may have additional rights under local law (for example, the GDPR or CCPA). To exercise them, contact us.
+
+
+10. Security
+
+Communication between the app and our servers is encrypted, and access to our databases is restricted. We use reasonable technical and organizational measures to protect your information, but no method of transmission or storage is completely secure.
+
+
+11. Children's Privacy
+
+The app is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, contact us and we will delete it.
+
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be published at this address with an updated effective date. Continued use of the app after changes are published means you accept the updated policy.
+
+
+13. Contact Us
+
+If you have any questions or requests about this Privacy Policy, please contact us at:
+shatelvpn.app@gmail.com
+
+
+Additional Information for Android Users
+Shatel VPN complies with Google Play's Developer Program Policies, including the requirements for apps that use VpnService and for user data, privacy and payments.
