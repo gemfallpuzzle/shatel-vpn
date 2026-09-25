@@ -54,8 +54,7 @@ Shatel VPN offers Premium subscriptions (for example: removing ads, unlimited co
 * Payment processing: all payments are processed by Google Play under Google's terms and privacy policy. We do not receive or store your card number, bank details or billing address.
 * Information we receive: when you subscribe, the app and our server receive the purchase token, the product and plan you bought, the order status and the subscription's expiry time. We verify each purchase directly with Google Play and store the result with your installation identifier, so that Premium features can be unlocked on your device and kept active until the subscription ends.
 * Renewal and cancellation: subscriptions renew automatically through Google Play unless cancelled. You can manage or cancel a subscription at any time in the Google Play Store app under Payments & subscriptions > Subscriptions. Cancelling stops future renewals; Premium remains active until the end of the paid period.
-* Refunds: refunds are handled according to Google Play's refund policy.
-* Status checks: we periodically re-check an active subscription with Google Play so that cancellations, refunds and expiries are applied correctly.
+* Status checks: we periodically re-check an active subscription with Google Play so that cancellations and expiries are applied correctly.
 
 
 4. VPN Service
